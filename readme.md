@@ -7,7 +7,7 @@ This is a web development project created during my internship in 2025. The proj
 - HTML5, CSS3, JavaScript
 - Node.js & Express.js
 - MySQL (or MongoDB)
-- Git & GitHub
+- Git & GitHub & GitLab
 
 ## 💡 Features
 
